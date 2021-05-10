@@ -7,5 +7,7 @@ You move by walking around naturally. The rock will tend to go in front of you a
 
 Enjoy!
 
+*Note: The portal is a pink rectangle placed somewhere in the Labyrinth. But it is not really implemented. Just try bringing the rock to it. :)*
+
 ## Technical specification
 Built for Android.
